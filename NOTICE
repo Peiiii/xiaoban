@@ -1,0 +1,11 @@
+Xiaoban application source: MIT, Copyright (c) 2026 Peiiii.
+
+Third-party dependencies keep their respective licenses. npm ci installs ws,
+ESLint, globals, and the optional hosted-mode GemiGo App SDK (0.3.1), pinned to
+its official distribution at docs.gemigo.io. SDK build output is generated
+locally and is not committed to this repository. See each package's notices.
+
+The Qwen audio sample (public/sound-check.wav) was generated through the
+application author's Model Studio account as a playback diagnostic. Qwen and
+DeepSeek services, model access, and generated outputs are subject to their
+providers' terms; the application license does not grant API access or credits.

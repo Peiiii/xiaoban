@@ -1,0 +1,33 @@
+{
+  "name": "xiaoban",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/index.mjs",
+    "dev": "npm start",
+    "build": "node scripts/build.mjs",
+    "check": "eslint public server scripts tests && node --check server/index.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "prestart": "node scripts/prepare-sdk.mjs",
+    "pretest": "node scripts/prepare-sdk.mjs"
+  },
+  "dependencies": {
+    "@gemigo/app-sdk": "https://docs.gemigo.io/sdk/0.3.1/gemigo-app-sdk-0.3.1.tgz",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0"
+  },
+  "description": "A browser-based AI voice companion powered by Qwen realtime audio.",
+  "license": "MIT",
+  "homepage": "https://github.com/Peiiii/xiaoban",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Peiiii/xiaoban.git"
+  }
+}
