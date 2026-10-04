@@ -42,7 +42,7 @@ DASHSCOPE_REALTIME_URL=wss://YOUR_WORKSPACE_ID.cn-beijing.maas.aliyuncs.com/api-
 npm start
 ```
 
-打开 **http://localhost:4318**，点击「开始通话」，允许麦克风，直接说话。说完停顿后等待回应；说话或点击「打断回复」可中断，点击「结束通话」释放麦克风。
+打开 [http://localhost:4318](http://localhost:4318)，点击「开始通话」，允许麦克风，直接说话。说完停顿后等待回应；说话或点击「打断回复」可中断，点击「结束通话」释放麦克风。
 
 文字聊天独立配置，可选：
 
