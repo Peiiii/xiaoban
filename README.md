@@ -2,7 +2,7 @@
 
 像打电话一样和 AI 聊天：打开浏览器，点一下「开始通话」，直接开口说，它用声音回答，你可以接着聊、随时打断。小伴可以自己运行，适合聊日常、梳理想法或练英语口语。
 
-**[在线体验](https://xiaoban-voice.gemigo.app)** · [English](README.en.md) · [MIT License](LICENSE)
+**[在线体验](https://xiaoban-voice.gemigo.app)** · [V2EX 讨论](https://www.v2ex.com/t/1246422) · [English](README.en.md) · [MIT License](LICENSE)
 
 ![小伴桌面界面](docs/images/desktop.jpg)
 

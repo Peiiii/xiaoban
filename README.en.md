@@ -2,7 +2,7 @@
 
 Talk to AI like making a call: open your browser, start a call, speak naturally, hear a reply, and interrupt whenever you need. Xiaoban is a self-hostable voice companion for everyday conversation, brainstorming, and English practice, built with plain JavaScript, Web Audio, and a small Node.js server.
 
-[中文](README.md) · [Live demo](https://xiaoban-voice.gemigo.app) · [MIT](LICENSE)
+[中文](README.md) · [Live demo](https://xiaoban-voice.gemigo.app) · [V2EX discussion](https://www.v2ex.com/t/1246422) · [MIT](LICENSE)
 
 ![Xiaoban desktop](docs/images/desktop.jpg)
 
